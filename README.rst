@@ -1,6 +1,11 @@
 django-lint
 """""""""""
 
+|ImageLink|_
+
+.. |ImageLink| image:: https://app.codesponsor.io/assets/code-sponsor-logo-d4ae4ec3652cf90ebe456994dcf8b476501cd9e09e939b2a7ab9d549c99c98f8.svg
+.. _ImageLink: https://codesponsor.io
+
 **Consulting services**: if your organisation needs a reputable software developer with a track record of producing high-quality and maintainable Python/Django code, please get in touch to discuss your needs. `More info <https://chris-lamb.co.uk/services>`_
 
 ----
